@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coffee-react-api/static/css/main.7ea0aa72.css",
-    "main.js": "/coffee-react-api/static/js/main.ef761bdf.js",
-    "static/media/bg-cafe.jpg": "/coffee-react-api/static/media/bg-cafe.ed22aff1614ae837ee21.jpg",
-    "static/media/star-fill.svg": "/coffee-react-api/static/media/star-fill.6a3dad060cdb5c863b8fcb3095239b5c.svg",
-    "static/media/star.svg": "/coffee-react-api/static/media/star.e6c9605c61e0305626b0348906705ab8.svg",
-    "index.html": "/coffee-react-api/index.html",
-    "main.7ea0aa72.css.map": "/coffee-react-api/static/css/main.7ea0aa72.css.map",
-    "main.ef761bdf.js.map": "/coffee-react-api/static/js/main.ef761bdf.js.map"
+    "main.css": "/coffee-listing/static/css/main.1e15c8db.css",
+    "main.js": "/coffee-listing/static/js/main.720ea491.js",
+    "static/media/bg-cafe.jpg": "/coffee-listing/static/media/bg-cafe.ed22aff1614ae837ee21.jpg",
+    "static/media/star-fill.svg": "/coffee-listing/static/media/star-fill.6a3dad060cdb5c863b8fcb3095239b5c.svg",
+    "static/media/star.svg": "/coffee-listing/static/media/star.e6c9605c61e0305626b0348906705ab8.svg",
+    "index.html": "/coffee-listing/index.html",
+    "main.1e15c8db.css.map": "/coffee-listing/static/css/main.1e15c8db.css.map",
+    "main.720ea491.js.map": "/coffee-listing/static/js/main.720ea491.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ea0aa72.css",
-    "static/js/main.ef761bdf.js"
+    "static/css/main.1e15c8db.css",
+    "static/js/main.720ea491.js"
   ]
 }

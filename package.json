@@ -1,7 +1,7 @@
 {
   "name": "coffee-listing",
   "version": "0.1.0",
-  "homepage": "https://chrissbenitez.github.io/coffee-react-api/",
+  "homepage": "https://chrissbenitez.github.io/coffee-listing/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
